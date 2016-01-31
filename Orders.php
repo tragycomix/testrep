@@ -2,7 +2,7 @@
 
 class \heureka\Orders {
 
-	public function CreateOrder(\Customer customer, \Basket basket){
+	public function CreateOrder(\Customer customer, \Store store){
 		
 	}
 
